@@ -9,4 +9,8 @@ class HelloTest < Minitest::Test
   def test_hello
     assert_equal 'hello', hello
   end
+
+  def test_world
+    assert_equal 'word', world
+  end
 end
