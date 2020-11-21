@@ -3,3 +3,7 @@
 def hello
   'hello'
 end
+
+def world
+  'world'
+end
