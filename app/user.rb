@@ -5,4 +5,7 @@ class User
   def hello
     "Hello, world!"
   end
+  def follow
+    "follow"
+  end
 end
